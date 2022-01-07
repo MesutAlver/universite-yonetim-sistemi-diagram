@@ -4,5 +4,5 @@
 Sınıf diagramı kullanarak üniversite yönetim sistemi tasarladım
 ```
 
-![Image](https://ibb.co/tYW4DYn)
+![Image](https://r.resimlink.com/eGsz.jpg)
 ---
